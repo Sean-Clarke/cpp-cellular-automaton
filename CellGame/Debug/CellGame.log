@@ -1,0 +1,4 @@
+﻿  CellGame.cpp
+c:\users\sean\documents\visual studio 2015\projects\cellgame\cellgame\cellgame.cpp(25): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  CellGame.vcxproj -> C:\Users\Sean\Documents\Visual Studio 2015\Projects\CellGame\Debug\CellGame.exe
+  CellGame.vcxproj -> C:\Users\Sean\Documents\Visual Studio 2015\Projects\CellGame\Debug\CellGame.pdb (Partial PDB)
